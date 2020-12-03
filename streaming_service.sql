@@ -1,11 +1,10 @@
 CREATE TABLE netflix (
-  id INT PRIMARY KEY,
-  premise_name TEXT,
-  county_id INT
+  Title TEXT PRIMARY KEY,
+  Age VARCHAR (10),
+	Streaming_Service TEXT
 );
 CREATE TABLE amazon_prime_video (
-  id INT PRIMARY KEY,
-  county_name TEXT,
-  license_count INT,
-  county_id INT
+  Title TEXT PRIMARY KEY,
+  Age VARCHAR (10),
+  Streaming_Service TEXT
 );
