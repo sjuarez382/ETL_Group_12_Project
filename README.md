@@ -19,9 +19,10 @@ The type of final production database to load the data into (relational or non-r
 * We used pgAdmin (SQL) to load the tables and they were relational.
 
 The final tables or collections that will be used in the production database.
-![amazon_prime_table](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/amazon_prime_table.PNG)
+* ![amazon_prime_table](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/amazon_prime_table.PNG)
 
-![netflix_table](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/netflix_table.PNG)
+* ![netflix_table](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/netflix_table.PNG)
 
 Your final schema
-![schema](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/schema.png)
+
+* ![schema](https://github.com/sjuarez382/ETL_Group_12_Project/blob/main/images/schema.PNG)
