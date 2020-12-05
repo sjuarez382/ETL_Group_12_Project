@@ -20,5 +20,7 @@ The type of final production database to load the data into (relational or non-r
 
 The final tables or collections that will be used in the production database.
 ![amazon_prime_table](images/amazon_prime_table.png)
+![netflix_table](images/netflix_table.png)
 
 Your final schema
+![schema](images/schema.png)
